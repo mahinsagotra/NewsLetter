@@ -62,9 +62,3 @@ app.post("/failure", function(req, res) {
 });
 
 app.listen(port, () => console.log("Server is running on port " + port));
-
-//API key
-//ff12235a255e4e3b72eb1c0182319a7b-us4
-
-//Mailchimp id
-//738acea089
