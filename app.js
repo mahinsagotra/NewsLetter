@@ -40,7 +40,7 @@ app.post("/", function(req, res) {
     method: "POST",
     headers: {
       Authorization: "student ff12235a255e4e3b72eb1c0182319a7b-us4"
-    }
+    },
     body: jsonData
   };
 
